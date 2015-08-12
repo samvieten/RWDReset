@@ -1,0 +1,33 @@
+{
+  "name": "rwdreset",
+  "version": "1.0.2",
+  "description": "buildtask for sass to css of rwdreset",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "testcommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samvieten/RWDReset.git"
+  },
+  "keywords": [
+    "rwd",
+    "reset",
+    "css",
+    "reset",
+    "sass",
+    "reset",
+    "responsive"
+  ],
+  "author": "Sam Vieten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samvieten/RWDReset/issues"
+  },
+  "homepage": "https://github.com/samvieten/RWDReset#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4"
+  }
+}
